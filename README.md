@@ -17,6 +17,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [Turso](https://turso.tech/blog/zig-helped-us-move-data-to-the-edge-here-are-our-impressions-67d3a9c45af4) — [GitHub](https://github.com/tursodatabase/pg_turso)
 - [ZML](https://zml.ai/) — [GitHub](https://github.com/zml)
 - [Dylibso](https://dylib.so/) — [GitHub](https://github.com/extism?q=&type=source&language=zig)
+- [tvscientific](https://www.tvscientific.com) - [1](https://www.reddit.com/r/Zig/comments/1dwqiqq/senior_ml_engineer_zig_remote_us_175210k_bonus/) [2](https://ziggit.dev/t/senior-ml-engineer-zig-full-time-remote-us-175-210k-bonus-equity/4991)
 
 ## Commercial companies using the Zig build system in production
 
