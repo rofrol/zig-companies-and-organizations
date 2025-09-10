@@ -1,4 +1,4 @@
-# Zig Companies
+# Zig Companies and Organizations
 
 List of commercial companies and non-profit organizations using Zig in production ([Ziggit discussion](https://ziggit.dev/t/list-of-companies-using-zig-in-production/4084)).
 
