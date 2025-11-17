@@ -27,6 +27,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 ## Non-profit organizations using Zig in production
 
 - [Defold](https://defold.com/) — [GitHub](https://github.com/defold) | [Presentation slides](https://defold.com/presentations/zigmeetup_sthlm_3_v2.pdf)
+- [Ghostty](https://www.ghostty.org/) — [Github](https://github.com/ghostty-org/ghostty) 
 - [Hexops](https://hexops.com/) — [GitHub](https://github.com/hexops)
 - [Midstall Software](https://midstall.com/) — [GitHub](https://github.com/MidstallSoftware)
 - [Roc Programming Language Foundation](https://foundation.roc-lang.org/) — [GitHub](https://github.com/roc-lang/roc/tree/main/crates/compiler/builtins/bitcode)
