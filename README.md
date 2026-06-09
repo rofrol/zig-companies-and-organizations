@@ -18,6 +18,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [ZML](https://zml.ai/) — [GitHub](https://github.com/zml)
 - [Dylibso](https://dylib.so/) — [GitHub](https://github.com/extism?q=&type=source&language=zig)
 - [tvscientific](https://www.tvscientific.com) - [1](https://www.reddit.com/r/Zig/comments/1dwqiqq/senior_ml_engineer_zig_remote_us_175210k_bonus/) [2](https://ziggit.dev/t/senior-ml-engineer-zig-full-time-remote-us-175-210k-bonus-equity/4991)
+- [Midstall](https://midstall.com/) — [GitHub](https://github.com/Midstall)
 
 ## Commercial companies using the Zig build system in production
 
@@ -28,7 +29,6 @@ List of commercial companies and non-profit organizations using Zig in productio
 
 - [Defold](https://defold.com/) — [GitHub](https://github.com/defold) | [Presentation slides](https://defold.com/presentations/zigmeetup_sthlm_3_v2.pdf)
 - [Hexops](https://hexops.com/) — [GitHub](https://github.com/hexops)
-- [Midstall Software](https://midstall.com/) — [GitHub](https://github.com/MidstallSoftware)
 - [Roc Programming Language Foundation](https://foundation.roc-lang.org/) — [GitHub](https://github.com/roc-lang/roc/tree/main/crates/compiler/builtins/bitcode)
 - [Zig Software Foundation](https://ziglang.org/zsf/) — [GitHub](https://github.com/ziglang)
 - [Zig Tools Open Collective](https://opencollective.com/zigtools) — [GitHub](https://github.com/zigtools)
