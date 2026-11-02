@@ -6,7 +6,6 @@ List of commercial companies and non-profit organizations using Zig in productio
 
 - [Ameli](https://ameli.co.kr/) — [GitHub](https://github.com/bfactory-ai/zignal)
 - [Axiom](https://axiom.co/) — [GitHub](https://github.com/axiomhq/zig-hyperloglog)
-- [Bun](https://bun.sh/) — [GitHub](https://github.com/oven-sh/bun)
 - [DNEG](https://www.dneg.com/) — [GitHub](https://github.com/dneg) | [Video presentation 1](https://www.youtube.com/watch?v=xUInj_nEcEg) | [Video presentation 2](https://www.youtube.com/watch?v=MhzWE2z4fjA)
 - [RDDL Foundation](https://www.rddl.io/) — [GitHub](https://github.com/rddl-network/libocc)
 - [Spiral](https://spiraldb.com) — [GitHub](https://github.com/spiraldb)
