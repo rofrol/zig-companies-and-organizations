@@ -30,7 +30,7 @@ List of commercial companies and non-profit organizations using Zig in productio
 - [Hexops](https://hexops.com/) — [GitHub](https://github.com/hexops)
 - [Midstall Software](https://midstall.com/) — [GitHub](https://github.com/MidstallSoftware)
 - [Roc Programming Language Foundation](https://foundation.roc-lang.org/) — [GitHub](https://github.com/roc-lang/roc/tree/main/crates/compiler/builtins/bitcode)
-- [Zig Software Foundation](https://ziglang.org/zsf/) — [GitHub](https://github.com/ziglang)
+- [Zig Software Foundation](https://ziglang.org/zsf/) — [Codeberg](https://codeberg.org/ziglang)
 - [Zig Tools Open Collective](https://opencollective.com/zigtools) — [GitHub](https://github.com/zigtools)
 
 ## Inspirations
